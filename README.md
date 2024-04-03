@@ -9,10 +9,10 @@ It's very beautifull because:
 BEGIN
 	A := B;
 	REPEAT
-		// This if perpetuum mobile!
+		// This is perpetuum mobile!
 	UNTIL FALSE;
 END;
 ```
 
-Код | Описание
-gg | Test
+Код | Описание|
+gg | Test|
